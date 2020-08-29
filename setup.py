@@ -1,4 +1,5 @@
 from setuptools import setup
+import sys
 
 try:
     from setuptools_rust import RustExtension, Binding
